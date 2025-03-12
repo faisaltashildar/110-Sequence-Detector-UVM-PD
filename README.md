@@ -5,8 +5,6 @@ This project implements a **110 sequence detector** using **Verilog and SystemVe
 
 ---
 
----
-
 ### **Implementation Details**  
 
 #### **1️⃣ Sequence Detector (110)**
