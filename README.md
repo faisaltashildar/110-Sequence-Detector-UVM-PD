@@ -5,34 +5,6 @@ This project implements a **110 sequence detector** using **Verilog and SystemVe
 
 ---
 
-### **Project Structure**  
-```
-├── UVM/                    # UVM testbench components  
-│   ├── agent.sv  
-│   ├── design.sv  
-│   ├── driver.sv  
-│   ├── env.sv  
-│   ├── generator.sv  
-│   ├── interface.sv  
-│   ├── monitor.sv  
-│   ├── package.sv  
-│   ├── scoreboard.sv  
-│   ├── test.sv  
-│   ├── testbench.sv  
-│   ├── transaction.sv  
-│  
-├── verilog_file/            # Sequence detector Verilog design  
-│   ├── sequence_detector_110.v  
-│  
-├── reports/                 # Reports from physical design  
-│  
-├── results/                 # Generated design outputs  
-│  
-├── gcd_files/               # Configuration and constraints  
-│  
-├── README.md                # Project documentation  
-```
-
 ---
 
 ### **Implementation Details**  
