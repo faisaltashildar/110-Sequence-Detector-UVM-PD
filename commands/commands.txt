@@ -1,0 +1,101 @@
+owais@LAPTOP-42Q1RP93:~/OpenROAD-flow-scripts/flow$ history 100
+  820  cd ../../../
+  821  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk clean_all
+  822  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk
+  823  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk gui_final
+  824  cd designs/gf180/mult_comb/
+  825  gedit config.mk
+  826  cd ../../../
+  827  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk clean_all
+  828  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk
+  829  cd ../../../
+  830  cd designs/gf180/mult_comb/
+  831  cd /OpenROAD-flow-scripts/flow
+  832  cd OpenROAD-flow-scripts/flow/
+  833  cd designs/gf180/mult_comb/
+  834  gedit config.mk
+  835  cd ../../../
+  836  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk clean_all
+  837  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk
+  838  cd designs/gf180/mult_comb/
+  839  gedit config.mk
+  840  cd ../../../
+  841  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk clean_all
+  842  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk
+  843  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk gui_final
+  844  ls
+  845  cd reports/
+  846  ls
+  847  cd gf180/
+  848  ls
+  849  cd mult_comb/
+  850  ls
+  851  cd base/
+  852  ls
+  853  gedit 4_cts_final.rpt
+  854  cd ../../
+  855  cd results/
+  856  ls
+  857  cd gf180/
+  858  ls
+  859  cd mu
+  860  cd mult_comb/
+  861  ls
+  862  cd base/
+  863  ls
+  864  gedit clock_period.txt
+  865  cd ../../../
+  866  cd ../
+  867  make DESIGN_CONFIG=designs/gf180/mult_comb/config.mk gui_final
+  868  ls
+  869  pwd
+  870  cd OpenROAD-flow-scripts/
+  871  ls
+  872  cd flow/designs
+  873  ls
+  874  cd src
+  875  ls
+  876  mkdir sequence_detector_110
+  877  ls
+  878  cd sequence_detector_110/
+  879  gedit sequence_detector_110.v
+  880  ls
+  881  gedit sequence_detector_110.v
+  882  cd ../../..
+  883  cd designs
+  884  ls
+  885  cd sky130hd
+  886  ls
+  887  mkdir sequence_detector_110
+  888  ls
+  889  cd sequence_detector_110/
+  890  cp -rf ../gcd/* .
+  891  ls
+  892  gedit config.mk
+  893  gedit constraint.sdc
+  894  cd ../../..
+  895  make clean_all DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  896  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  897  cd designs/sky130hd
+  898  ls
+  899  cd sequence_detector_110/
+  900  ls
+  901  gedit config.mk
+  902  cd ../../..
+  903  make clean_all DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  904  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  905  cd designs/src/sequence_detector_110/
+  906  ls
+  907  gedit sequence_detector_110.v
+  908  cd ../../..
+  909  make clean_all DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  910  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  911  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk gui_final
+  912  cd designs/sky130hd/sequence_detector_110/
+  913  ls
+  914  gedit constraint.sdc
+  915  cd ../../..
+  916  make clean_all DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  917  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk
+  918  make DESIGN_CONFIG=designs/sky130hd/sequence_detector_110/config.mk gui_final
+  919  history 100

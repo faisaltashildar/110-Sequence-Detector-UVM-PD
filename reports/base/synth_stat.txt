@@ -1,0 +1,24 @@
+
+18. Printing statistics.
+
+=== sequence_detector_110 ===
+
+   Number of wires:                 15
+   Number of wire bits:             15
+   Number of public wires:           7
+   Number of public wire bits:       7
+   Number of ports:                  4
+   Number of port bits:              4
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 12
+     sky130_fd_sc_hd__a21boi_2       1
+     sky130_fd_sc_hd__dfxtp_1        4
+     sky130_fd_sc_hd__nand2b_4       1
+     sky130_fd_sc_hd__nor2_1         5
+     sky130_fd_sc_hd__nor3b_1        1
+
+   Chip area for module '\sequence_detector_110': 131.376000
+     of which used for sequential elements: 80.076800 (60.95%)
+
