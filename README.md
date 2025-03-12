@@ -34,6 +34,27 @@ This project implements a **110 sequence detector** using **Verilog and SystemVe
 | **KLayout**       | Layout visualization |  
 
 ---
+### **Project Result Screenshot's**  
+
+1. **Verilog Design & Testbench Code with Simulation Output**  
+   *(Screenshot showing the Verilog code for the sequence detector, testbench, and its output in EDA Playground.)*
+   
+![image](https://github.com/user-attachments/assets/880deff1-1402-4292-b7bc-c1c9e44960eb)
+
+2. **Waveform Output of the Sequence Detector**  
+   *(Graphical waveform representation of the sequence detector's output, showing how the "110" sequence is detected.)*
+   
+![image](https://github.com/user-attachments/assets/0f1cde94-9bdb-4ce5-a32b-1226685e009d)
+
+3. **Physical Design in OpenROAD**  
+   *(Screenshot of the sequence detector's project in OpenROAD, showing floorplanning, placement, and routing.)*
+   
+![image](https://github.com/user-attachments/assets/be7f588e-831a-45f8-a58d-1842dcac9e71)
+
+4. **Final Layout of the Sequence Detector**        
+   *(Final GDS layout of the sequence detector visualized in KLayout, showing the completed physical design.)*
+   
+![image](https://github.com/user-attachments/assets/84fc1c85-27b9-4116-9851-6065d6bc55c6)
 
 ### **How to Run the Project**  
 
@@ -72,4 +93,5 @@ This project implements a **110 sequence detector** using **Verilog and SystemVe
 ---
 
 ### **Contributors**  
-- **[Faisal Tashildar](https://github.com/faisaltashildar)**  
+- **[Mohammed Faisal Tashildar](https://github.com/faisaltashildar)**
+- **[Ankit Kamanalli](https://github.com/Ask5665)**  
